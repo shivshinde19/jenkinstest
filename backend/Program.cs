@@ -5,7 +5,8 @@ var app = builder.Build();
 // Simple API endpoint
 app.MapGet("/api/hello", () =>
 {
-    return "Hello from .NET API 🎯";
+    return "Hello from .NET API shiv 🎯";
 });
 
 app.Run();
+
