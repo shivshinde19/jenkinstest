@@ -19,7 +19,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <p>
-          React + Jenkins + .NET CI/CD using Jenkins
+          React + Jenkins + .NET CI/CD (Jenkins)
             
         </p>
 
